@@ -1,4 +1,4 @@
 # git-tutorial
 A git tutorial at ClingDing 2025
 
-*Hello, I am shy!*
+*Hello, I am really shy!*
